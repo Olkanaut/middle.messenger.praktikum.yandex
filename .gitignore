@@ -1,0 +1,9 @@
+dist/
+node_modules/
+.parcel-cache
+archive/
+
+logs
+*.log
+
+.env
