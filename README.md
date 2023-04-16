@@ -1,15 +1,12 @@
-sprint_1 pr: `https://github.com/Olkanaut/middle.messenger.praktikum.yandex/pull/2`
-
 # OLLO messenger
 
 ## Run
-- Before running the project: `npm ci`
+- Install dependencies: `npm ci`
 - Run project: `npm run start`
 - Build project: `npm run build`
 - Remove dependencies and dist folder: `fclean`
 
 Project runs locally on port 3000
-
 
 ## Test prototype
 Test on netlify (after deployment): `https://glowing-pasca-33f2ca.netlify.app/`
