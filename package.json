@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "parcel build static/index.html && node server/server.js",
+    "start": "parcel build static/index.html",
     "build": "parcel build static/index.html",
     "fclean": "rm -rf node_modules dist"
   },
