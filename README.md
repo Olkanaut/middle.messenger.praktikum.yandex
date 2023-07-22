@@ -9,7 +9,7 @@
 Project runs locally on port 3000
 
 ## Test prototype
-Test on netlify (after deployment): `https://glowing-pasca-33f2ca.netlify.app/`
+Try a prototype deployed on netlify: `https://glowing-pasca-33f2ca.netlify.app/`
 
 Navigate views using `Sign in / Sign up / Save`, `pencil buttons` or a temporarily visible navigation panel on the right
 
@@ -24,3 +24,12 @@ Navigate views using `Sign in / Sign up / Save`, `pencil buttons` or a temporari
 | /password-editing          | edit password form |
 | /404                       | error message page |
 | /500                       | error message page |
+
+### Sprint 1
+- templated pages
+- components
+- simple routing
+- built with Parcel
+
+### Sprint 2
+- built with Vite

@@ -1,5 +1,6 @@
+import Handlebars from 'handlebars/runtime';
+
 import ErrorPage from './views/layouts/ErrorPage'
-import Handlebars from 'handlebars';
 import Login from './views/layouts/Login/index.js'
 import Messages from './views/layouts/Messages'
 import PasswordEditing from './views/layouts/PasswordEditing'
